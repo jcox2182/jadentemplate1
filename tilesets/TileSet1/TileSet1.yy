@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sBasicBricks",
-    "path": "sprites/sBasicBricks/sBasicBricks.yy",
+    "name": "dctgx0v_43e123f9_0f98_48c4_b0f3_98a75a1d8adb",
+    "path": "sprites/dctgx0v_43e123f9_0f98_48c4_b0f3_98a75a1d8adb/dctgx0v_43e123f9_0f98_48c4_b0f3_98a75a1d8adb.yy",
   },
   "tileWidth": 32,
   "tileHeight": 32,
@@ -135,6 +135,8 @@
   },
   "resourceVersion": "1.0",
   "name": "TileSet1",
-  "tags": [],
+  "tags": [
+    "ground",
+  ],
   "resourceType": "GMTileSet",
 }

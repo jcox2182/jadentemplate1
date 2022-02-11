@@ -4,3 +4,7 @@ xVector = xSpeed * xDirection;
 grv = .1;
 yVector = 0;  
 jumpForce = -4;
+airborneTimer = 0
+doublejumps = 1
+backpackEquiped = true
+hp = 2;

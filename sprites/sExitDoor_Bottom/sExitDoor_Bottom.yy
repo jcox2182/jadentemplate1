@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"61dd7487-7b06-4cde-bbf2-0d538cebedea","path":"sprites/sBrick/sBrick.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"61dd7487-7b06-4cde-bbf2-0d538cebedea","path":"sprites/sBrick/sBrick.yy",},"LayerId":{"name":"307a1834-4013-4cf2-b7ee-6051a3d643f8","path":"sprites/sBrick/sBrick.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sBrick","path":"sprites/sBrick/sBrick.yy",},"resourceVersion":"1.0","name":"61dd7487-7b06-4cde-bbf2-0d538cebedea","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6357a703-8eab-43c0-891d-55b8df90093c","path":"sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6357a703-8eab-43c0-891d-55b8df90093c","path":"sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",},"LayerId":{"name":"72a56fce-9426-44e1-9df8-f352a5a5dac6","path":"sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sExitDoor_Bottom","path":"sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",},"resourceVersion":"1.0","name":"6357a703-8eab-43c0-891d-55b8df90093c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sBrick","path":"sprites/sBrick/sBrick.yy",},
+    "spriteId": {"name":"sExitDoor_Bottom","path":"sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"96ec1bde-3e55-496a-9bef-9fa4b8bad21a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"61dd7487-7b06-4cde-bbf2-0d538cebedea","path":"sprites/sBrick/sBrick.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6fbed4ef-9f03-4705-b732-9141e897859a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6357a703-8eab-43c0-891d-55b8df90093c","path":"sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,46 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sBrick","path":"sprites/sBrick/sBrick.yy",},
+    "parent": {"name":"sExitDoor_Bottom","path":"sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",},
     "resourceVersion": "1.3",
-    "name": "sBrick",
+    "name": "sExitDoor_Bottom",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"307a1834-4013-4cf2-b7ee-6051a3d643f8","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"72a56fce-9426-44e1-9df8-f352a5a5dac6","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": {
-    "left": 0,
-    "top": 0,
-    "right": 0,
-    "bottom": 0,
-    "guideColour": [
-      4294902015,
-      4294902015,
-      4294902015,
-      4294902015,
-    ],
-    "highlightColour": 1728023040,
-    "highlightStyle": 0,
-    "enabled": false,
-    "tileMode": [
-      0,
-      0,
-      0,
-      0,
-      0,
-    ],
-    "resourceVersion": "1.0",
-    "loadedVersion": null,
-    "resourceType": "GMNineSliceData",
-  },
+  "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sBrick",
+  "name": "sExitDoor_Bottom",
   "tags": [],
   "resourceType": "GMSprite",
 }

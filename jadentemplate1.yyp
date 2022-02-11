@@ -1,12 +1,24 @@
 {
   "resources": [
+    {"id":{"name":"sLaserPiece","path":"sprites/sLaserPiece/sLaserPiece.yy",},"order":4,},
+    {"id":{"name":"sPlayer_NoBackpack","path":"sprites/sPlayer_NoBackpack/sPlayer_NoBackpack.yy",},"order":7,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":1,},
+    {"id":{"name":"ikhbterqtroij_terrtpo","path":"sprites/ikhbterqtroij_terrtpo/ikhbterqtroij_terrtpo.yy",},"order":0,},
+    {"id":{"name":"sLaserShooter","path":"sprites/sLaserShooter/sLaserShooter.yy",},"order":3,},
+    {"id":{"name":"oExitDoor_Bottom","path":"objects/oExitDoor_Bottom/oExitDoor_Bottom.yy",},"order":4,},
+    {"id":{"name":"oExitDoor_Top","path":"objects/oExitDoor_Top/oExitDoor_Top.yy",},"order":3,},
+    {"id":{"name":"oBackpack","path":"objects/oBackpack/oBackpack.yy",},"order":6,},
+    {"id":{"name":"sBackpack","path":"sprites/sBackpack/sBackpack.yy",},"order":8,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"dctgx0v_43e123f9_0f98_48c4_b0f3_98a75a1d8adb","path":"sprites/dctgx0v_43e123f9_0f98_48c4_b0f3_98a75a1d8adb/dctgx0v_43e123f9_0f98_48c4_b0f3_98a75a1d8adb.yy",},"order":2,},
+    {"id":{"name":"sExitDoor_Top","path":"sprites/sExitDoor_Top/sExitDoor_Top.yy",},"order":5,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":1,},
+    {"id":{"name":"sExitDoor_Bottom","path":"sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",},"order":6,},
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},"order":0,},
-    {"id":{"name":"sBasicBricks","path":"sprites/sBasicBricks/sBasicBricks.yy",},"order":2,},
+    {"id":{"name":"oExitDoor_Bottom_Fake","path":"objects/oExitDoor_Bottom_Fake/oExitDoor_Bottom_Fake.yy",},"order":5,},
+    {"id":{"name":"oLaserShooter","path":"objects/oLaserShooter/oLaserShooter.yy",},"order":2,},
     {"id":{"name":"sBrick","path":"sprites/sBrick/sBrick.yy",},"order":0,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -17,13 +29,13 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
-  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -49,7 +61,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2022.1.0.609",
   },
   "resourceVersion": "1.4",
   "name": "jadentemplate1",

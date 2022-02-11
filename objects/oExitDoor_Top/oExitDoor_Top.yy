@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "sBrick",
-    "path": "sprites/sBrick/sBrick.yy",
+    "name": "sExitDoor_Top",
+    "path": "sprites/sExitDoor_Top/sExitDoor_Top.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -19,16 +19,8 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":32.0,"y":0.0,},
-    {"x":32.0,"y":32.0,},
-    {"x":0.0,"y":32.0,},
-  ],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "physicsShapePoints": [],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -36,9 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oFloor",
-  "tags": [
-    "ground",
-  ],
+  "name": "oExitDoor_Top",
+  "tags": [],
   "resourceType": "GMObject",
 }
