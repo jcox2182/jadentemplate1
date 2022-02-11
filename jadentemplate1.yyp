@@ -6,6 +6,7 @@
     {"id":{"name":"ikhbterqtroij_terrtpo","path":"sprites/ikhbterqtroij_terrtpo/ikhbterqtroij_terrtpo.yy",},"order":0,},
     {"id":{"name":"sLaserShooter","path":"sprites/sLaserShooter/sLaserShooter.yy",},"order":3,},
     {"id":{"name":"oExitDoor_Bottom","path":"objects/oExitDoor_Bottom/oExitDoor_Bottom.yy",},"order":4,},
+    {"id":{"name":"oDeathbarrier","path":"objects/oDeathbarrier/oDeathbarrier.yy",},"order":7,},
     {"id":{"name":"oExitDoor_Top","path":"objects/oExitDoor_Top/oExitDoor_Top.yy",},"order":3,},
     {"id":{"name":"oBackpack","path":"objects/oBackpack/oBackpack.yy",},"order":6,},
     {"id":{"name":"sBackpack","path":"sprites/sBackpack/sBackpack.yy",},"order":8,},

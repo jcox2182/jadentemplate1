@@ -21,10 +21,16 @@ if ( place_meeting(x + xVector, y, oFloor) )
 
 x = x + xVector;
 if (place_meeting(x, y + yVector, oExitDoor_Bottom) or place_meeting(x + xVector, y, oExitDoor_Bottom)) {
-	if room_next(room) != -1
-   {
-   room_goto_next();
-   }
+	if (backpackEquiped == true) {
+		if room_next(room) != -1
+	   {
+	   room_goto_next();
+	   }
+	}
+}
+
+if (place_meeting(x, y + yVector, oDeathbarrier) or place_meeting(x + xVector, y, oDeathbarrier)) {
+	room_restart()
 }
 
 if ( place_meeting(x, y + yVector, oFloor) ) 
@@ -48,7 +54,7 @@ if ( place_meeting(x, y + 1, oFloor))
 	grv = .1;
 	airborneTimer = 0
 	airborne = false
-	doublejumps = 1
+	doublejumps = 2
 	slamFallData = [false,0,0]
 }
 
@@ -97,7 +103,6 @@ if (backpackButton) {
 		sprite_index = sPlayer;
 		jumpForce = -4;
 		xSpeed = 2.5;
-		xVector = xSpeed * xDirection;
 		}
 	}
 }

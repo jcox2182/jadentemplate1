@@ -10,3 +10,7 @@ if ( place_meeting(x, y + yVector, oFloor) )
 	yVector = 0;
 }
 y = y + yVector;
+
+if (place_meeting(x, y + yVector, oDeathbarrier)) {
+	room_restart()
+}
