@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"CY6_Pallete","path":"sprites/CY6_Pallete/CY6_Pallete.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "CY6_Pallete",
     "tags": [],
     "resourceType": "GMSequence",

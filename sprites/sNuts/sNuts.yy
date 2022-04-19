@@ -135,7 +135,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sNuts","path":"sprites/sNuts/sNuts.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sNuts",
     "tags": [],
     "resourceType": "GMSequence",

@@ -7,14 +7,14 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 7,
-  "bbox_right": 20,
-  "bbox_top": 20,
+  "bbox_left": 0,
+  "bbox_right": 95,
+  "bbox_top": 0,
   "bbox_bottom": 31,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 32,
+  "width": 96,
   "height": 32,
   "textureGroupId": {
     "name": "Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c78dff6c-1f00-4729-b3c2-556793cdf90a","path":"sprites/sBackpack/sBackpack.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c78dff6c-1f00-4729-b3c2-556793cdf90a","path":"sprites/sBackpack/sBackpack.yy",},"LayerId":{"name":"5adbd91a-ebf6-489b-bc2a-007e5df930a3","path":"sprites/sBackpack/sBackpack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sBackpack","path":"sprites/sBackpack/sBackpack.yy",},"resourceVersion":"1.0","name":"c78dff6c-1f00-4729-b3c2-556793cdf90a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8704266f-1074-4395-9d61-d72003e3ec14","path":"sprites/sElevatorPeiceRing/sElevatorPeiceRing.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8704266f-1074-4395-9d61-d72003e3ec14","path":"sprites/sElevatorPeiceRing/sElevatorPeiceRing.yy",},"LayerId":{"name":"206f4bf7-98af-43ce-918d-050df397f973","path":"sprites/sElevatorPeiceRing/sElevatorPeiceRing.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sElevatorPeiceRing","path":"sprites/sElevatorPeiceRing/sElevatorPeiceRing.yy",},"resourceVersion":"1.0","name":"8704266f-1074-4395-9d61-d72003e3ec14","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sBackpack","path":"sprites/sBackpack/sBackpack.yy",},
+    "spriteId": {"name":"sElevatorPeiceRing","path":"sprites/sElevatorPeiceRing/sElevatorPeiceRing.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"d58e71a8-fd54-471d-ace7-8b754f398e6e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c78dff6c-1f00-4729-b3c2-556793cdf90a","path":"sprites/sBackpack/sBackpack.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2d0e0eda-4c8f-4d52-91d2-19a38e8fcf2e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8704266f-1074-4395-9d61-d72003e3ec14","path":"sprites/sElevatorPeiceRing/sElevatorPeiceRing.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sBackpack","path":"sprites/sBackpack/sBackpack.yy",},
+    "parent": {"name":"sElevatorPeiceRing","path":"sprites/sElevatorPeiceRing/sElevatorPeiceRing.yy",},
     "resourceVersion": "1.4",
-    "name": "sBackpack",
+    "name": "sElevatorPeiceRing",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5adbd91a-ebf6-489b-bc2a-007e5df930a3","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"206f4bf7-98af-43ce-918d-050df397f973","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sBackpack",
+  "name": "sElevatorPeiceRing",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -138,7 +138,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerNoBackpackDashing","path":"sprites/sPlayerNoBackpackDashing/sPlayerNoBackpackDashing.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerNoBackpackDashing",
     "tags": [],
     "resourceType": "GMSequence",

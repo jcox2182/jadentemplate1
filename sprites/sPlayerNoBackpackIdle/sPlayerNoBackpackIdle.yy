@@ -138,7 +138,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerNoBackpackIdle","path":"sprites/sPlayerNoBackpackIdle/sPlayerNoBackpackIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerNoBackpackIdle",
     "tags": [],
     "resourceType": "GMSequence",

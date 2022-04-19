@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sLaserPiece","path":"sprites/sLaserPiece/sLaserPiece.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sLaserPiece",
     "tags": [],
     "resourceType": "GMSequence",

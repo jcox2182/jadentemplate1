@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDownArrow","path":"sprites/sDownArrow/sDownArrow.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDownArrow",
     "tags": [],
     "resourceType": "GMSequence",

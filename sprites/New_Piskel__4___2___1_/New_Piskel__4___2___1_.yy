@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"New_Piskel__4___2___1_","path":"sprites/New_Piskel__4___2___1_/New_Piskel__4___2___1_.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "New_Piskel__4___2___1_",
     "tags": [],
     "resourceType": "GMSequence",

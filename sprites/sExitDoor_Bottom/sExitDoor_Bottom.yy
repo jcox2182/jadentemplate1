@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sExitDoor_Bottom","path":"sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sExitDoor_Bottom",
     "tags": [],
     "resourceType": "GMSequence",

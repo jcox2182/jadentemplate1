@@ -138,7 +138,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerWalking","path":"sprites/sPlayerWalking/sPlayerWalking.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerWalking",
     "tags": [],
     "resourceType": "GMSequence",

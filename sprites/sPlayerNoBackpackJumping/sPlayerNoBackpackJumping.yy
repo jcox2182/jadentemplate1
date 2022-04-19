@@ -138,7 +138,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerNoBackpackJumping","path":"sprites/sPlayerNoBackpackJumping/sPlayerNoBackpackJumping.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerNoBackpackJumping",
     "tags": [],
     "resourceType": "GMSequence",

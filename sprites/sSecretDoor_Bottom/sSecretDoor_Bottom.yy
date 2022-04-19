@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sSecretDoor_Bottom","path":"sprites/sSecretDoor_Bottom/sSecretDoor_Bottom.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sSecretDoor_Bottom",
     "tags": [],
     "resourceType": "GMSequence",
