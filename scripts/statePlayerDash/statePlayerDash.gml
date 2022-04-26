@@ -6,10 +6,10 @@ function statePlayerDash(){
 		canDash = false
 		if (recentDirection == 1)
 		{
-			iweewhlkj = 10
+			dashSpeed = 10
 		}
 		else {
-			iweewhlkj = -10
+			dashSpeed = -10
 		}
 	}
 	checkCollisionsX();

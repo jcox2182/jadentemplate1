@@ -1,5 +1,6 @@
 canJump = true
 xSpeed = 3
+maxSpeed = 5
 xDirection = 0
 xVector = xSpeed * xDirection
 grv = .15
@@ -8,8 +9,9 @@ jumpForce = -4
 backpackEquiped = true
 airborneTimer = 0
 jumpsLeft  = 4
-iweewhlkj = 0
+dashSpeed = 0
 canDash = true
+beltspeedx = 0
 recentDirection = 1
 enum states {
 	idle,

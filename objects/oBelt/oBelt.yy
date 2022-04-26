@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sExitDoor_Bottom",
-    "path": "sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",
+    "name": "Sprite29",
+    "path": "sprites/Sprite29/Sprite29.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,14 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [],
-  "properties": [],
+  "properties": [
+    {"varType":1,"value":"2","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"beltspeed","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oExitDoor_Bottom_Fake",
+  "name": "oBelt",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -26,7 +26,7 @@ function statePlayerJumping(){
 		{
 			state = states.slamming
 		}
-		else if (dashButton)
+		else if (dashButton and backpackEquiped == false)
 		{
 			state = states.dashing
 		}

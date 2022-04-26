@@ -4,7 +4,7 @@ function backpackHandling(){
 	if (backpackButton) {
 		if (backpackEquiped) {
 			backpackEquiped = false
-			instance_create_layer(x-16,y,layer,oBackpack)
+			instance_create_layer(x-16,y-2,layer,oBackpack)
 			xSpeed = 3.5
 			grv = .1;
 			xVector = xSpeed * xDirection;

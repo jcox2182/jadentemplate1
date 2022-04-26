@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sElevatorPeice",
-    "path": "sprites/sElevatorPeice/sElevatorPeice.yy",
+    "name": "sExitDoor_Bottom",
+    "path": "sprites/sExitDoor_Bottom/sExitDoor_Bottom.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "elevatorPeice",
+  "name": "oExitDoor_Bottom_Closed",
   "tags": [],
   "resourceType": "GMObject",
 }

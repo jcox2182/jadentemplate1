@@ -7,16 +7,17 @@ function move()
 	{
 		recentDirection = xDirection
 	}
-	xVector = xSpeed * xDirection + iweewhlkj;
-	if (iweewhlkj != 0)
+	x = x + beltspeedx
+	xVector = xSpeed * xDirection + dashSpeed;
+	if (dashSpeed != 0)
 	{
-		if (iweewhlkj > 0)
+		if (dashSpeed > 0)
 		{
-			iweewhlkj = iweewhlkj - .5
+			dashSpeed = dashSpeed - .5
 		}
 		else
 		{
-			iweewhlkj = iweewhlkj + .5
+			dashSpeed = dashSpeed + .5
 		}
 	}
 	
