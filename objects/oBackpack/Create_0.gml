@@ -3,3 +3,4 @@
 grv = .2;
 yVector = 2;
 xVector = 0;
+currentBeltspeed = 0;

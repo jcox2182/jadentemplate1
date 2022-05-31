@@ -22,7 +22,7 @@ function statePlayerJumping(){
 			jumping = false 
 			canDash = true
 		}
-		else if (slam)
+		else if (slam and backpackEquiped)
 		{
 			state = states.slamming
 		}

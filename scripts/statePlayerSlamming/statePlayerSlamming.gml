@@ -3,10 +3,9 @@
 function statePlayerSlamming(){
 	move()
 	grv = .5;
-	airborneTimer = 0
 	if ( place_meeting(x, y + 1, oFloor)) 
 	{
-		grv = .1
+		grv = .15
 		state = states.walking
 	}
 } 

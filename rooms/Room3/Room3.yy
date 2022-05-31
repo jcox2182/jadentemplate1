@@ -29,6 +29,12 @@
             {"propertyId":{"name":"delayOn","path":"objects/oLaserShooterV/oLaserShooterV.yy",},"objectId":{"name":"oLaserShooterV","path":"objects/oLaserShooterV/oLaserShooterV.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"delayOff","path":"objects/oLaserShooterV/oLaserShooterV.yy",},"objectId":{"name":"oLaserShooterV","path":"objects/oLaserShooterV/oLaserShooterV.yy",},"value":"0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"oLaserShooterV","path":"objects/oLaserShooterV/oLaserShooterV.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":96.0,"resourceVersion":"1.0","name":"inst_68347C0E","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"delayOff","path":"objects/oSensor/oSensor.yy",},"objectId":{"name":"oSensor","path":"objects/oSensor/oSensor.yy",},"value":"0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"oSensor","path":"objects/oSensor/oSensor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":32.0,"resourceVersion":"1.0","name":"inst_3253A069","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oLamp","path":"objects/oLamp/oLamp.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":32.0,"resourceVersion":"1.0","name":"inst_6A9F356","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oLamp","path":"objects/oLamp/oLamp.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":608.0,"resourceVersion":"1.0","name":"inst_8978AC3","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oLamp","path":"objects/oLamp/oLamp.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":160.0,"resourceVersion":"1.0","name":"inst_490E08B3","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances_3","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":48,"SerialiseHeight":24,"TileSerialiseData":[
 29,22,22,22,22,22,22,22,22,22,31,14,29,22,22,22,22,22,22,22,31,14,14,14,29,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,31,
@@ -783,6 +789,10 @@
     {"name":"inst_150B9B88","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_4E2BE7FF","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_5C2F0C8B","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_3253A069","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_6A9F356","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_8978AC3","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_490E08B3","path":"rooms/Room3/Room3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

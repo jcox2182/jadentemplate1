@@ -20,8 +20,8 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":9.0,"y":7.0,},
-    {"x":22.0,"y":7.0,},
+    {"x":9.0,"y":5.0,},
+    {"x":22.0,"y":5.0,},
     {"x":22.0,"y":32.0,},
     {"x":9.0,"y":32.0,},
   ],
@@ -33,6 +33,7 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oExitDoor_Bottom_Open","path":"objects/oExitDoor_Bottom_Open/oExitDoor_Bottom_Open.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oNutsandBolts","path":"objects/oNutsandBolts/oNutsandBolts.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oBelt","path":"objects/oBelt/oBelt.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oBulletEye","path":"objects/oBulletEye/oBulletEye.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
