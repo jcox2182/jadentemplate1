@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"sLaserPiece","path":"sprites/sLaserPiece/sLaserPiece.yy",},"order":4,},
+    {"id":{"name":"splashScreenLoader","path":"objects/splashScreenLoader/splashScreenLoader.yy",},"order":25,},
     {"id":{"name":"sPlayerNoBackpackSlamming","path":"sprites/sPlayerNoBackpackSlamming/sPlayerNoBackpackSlamming.yy",},"order":24,},
     {"id":{"name":"sExitDoor_BottomOpen","path":"sprites/sExitDoor_BottomOpen/sExitDoor_BottomOpen.yy",},"order":36,},
     {"id":{"name":"sPlayerNoBackpackDashing","path":"sprites/sPlayerNoBackpackDashing/sPlayerNoBackpackDashing.yy",},"order":25,},
@@ -45,6 +46,7 @@
     {"id":{"name":"sPlayerNoBackpackJumping","path":"sprites/sPlayerNoBackpackJumping/sPlayerNoBackpackJumping.yy",},"order":11,},
     {"id":{"name":"sBackpack","path":"sprites/sBackpack/sBackpack.yy",},"order":8,},
     {"id":{"name":"sPlayerJumping","path":"sprites/sPlayerJumping/sPlayerJumping.yy",},"order":21,},
+    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},"order":4,},
     {"id":{"name":"checkCollisionsX","path":"scripts/checkCollisionsX/checkCollisionsX.yy",},"order":1,},
     {"id":{"name":"sExitDoor_TopOpen","path":"sprites/sExitDoor_TopOpen/sExitDoor_TopOpen.yy",},"order":37,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
@@ -93,6 +95,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
